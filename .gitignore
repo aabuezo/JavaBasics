@@ -1,0 +1,21 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Custom ignores
+/out/
+/.idea/
+*.iml
+
+# Compiled class file
+*.class
+
+# BlueJ files
+*.ctxt
+
+# Package files
+*.jar
+*.war
+*.zip
+*.tar.gz
+
