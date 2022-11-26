@@ -1,5 +1,6 @@
 public class EjemploArraysOrdenamientoBurbuja {
 
+    // Bubble sort
     public static void sortBurbuja(Object[] arreglo) {
 
         int total = arreglo.length;
